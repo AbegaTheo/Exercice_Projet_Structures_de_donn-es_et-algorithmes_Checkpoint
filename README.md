@@ -1,4 +1,4 @@
-# Exercice_Projet_Structures_de_donn-es_et-algorithmes_Checkpoint
+# Exercice_Projet_Structures_de_données_et-algorithmes_Checkpoint
 Exercice sur le cours Structures de Données et Algorithmes
 
 Pour ce point de crontrole, il était question de créer un compte sur le site : https://visualgo.net/fr
